@@ -1,0 +1,59 @@
+@charset "UTF-8";
+ 
+a {
+  font-size: large;
+}
+body {
+    background-color: rgb(12, 35, 85);
+    /*
+    background-image: url(vaporwaveposedit_final.jpg );
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover; */
+}
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 150px;
+  text-align: center;
+  color: rgb(216, 231, 4);
+
+}
+h2 {
+  text-align:center;
+  color:rgb(238, 255, 0) ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+  color: rgb(223, 223, 37);
+  text-align: justify;
+
+}
+a:link {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgba(255, 255, 0, 0.829);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 7mm; 
+}
+
